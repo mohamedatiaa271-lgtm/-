@@ -1,0 +1,6 @@
+{
+  "name": "فروفيتا – حكاية المانجو",
+  "description": "الموقع التفاعلي الرسمي لمشروع تطوير وتسويق عصير مانجو فروفيتا - طالبات قسم التغذية وعلوم الأطعمة، جامعة العاصمة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
